@@ -1,0 +1,5 @@
+{
+    "require": {
+        "octopod/octophp": "dev-master"
+    }
+}
