@@ -1,4 +1,17 @@
 {
+	"name": "octopod/framework",
+	"description": "Cross-Platform Mobile Development Framework",
+	"minimum-stability": "dev",
+	"authors": [
+		{
+			"name": "Kup",
+			"email": "kirill.shm@gmail.com"
+		},
+		{
+			"name": "sw_double",
+			"email": "sw.double@gmail.com"
+		}
+	],
     "require": {
         "octopod/octophp": "dev-master"
     }
