@@ -14,5 +14,10 @@
 	],
     "require": {
         "octopod/octophp": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "app/model"
+        ]
     }
 }
